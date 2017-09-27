@@ -1,7 +1,7 @@
 # utc-actionet
-java test assignment files.
+java coding employment test.
 ## QUESTION 1
-The uses following files:
+See the following files:
 - Shape.java
 - Circle.java
 - CirclesTest.java
